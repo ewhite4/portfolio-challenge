@@ -1,12 +1,33 @@
-<style>
+p{
+    color:white;
+}
         
+h1{
+    color: white; font-size: 100px;
+}
 
-header h1 {
-    font-weight: bold;
-    font-family: "Public Sans", Verdana, sans-serif;
-	font-size: 18px;
-	color: white;
-  }
+body {
+  background-color: rosybrown; 
+}
+
+h2 {
+    color:white; font-size: 45px;
+}
+
+body{
+    font-size: 20px;
+    background-image: url(https://i.redd.it/nok4cs22es851.png);
+    background-size: cover;
+}
+
+footer {
+    color: black;
+}
+
+
+
+
+
   @media screen and (max-width: 768px) {
     section {
       padding: 30px 15px;
@@ -43,16 +64,8 @@ header h1 {
   }
 
 
-
-
-
-
-
-
-
-
-
 .flexcontainer {
     display: flex;
     justify-content: space-between;
+    color:whitesmoke
 }
